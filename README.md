@@ -1,4 +1,4 @@
-# bioinf_ABI101_projA
+# GeneMiner
 
 ## Table of Contents
 - [Description](#description)
