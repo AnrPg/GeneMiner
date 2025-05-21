@@ -62,6 +62,6 @@ The analysis of the sequence and its validation as a coding sequence is based on
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Library cJSON used in this project is also covered by MIT License.
 
 ## Authors
-- Rigas Apostolos-Nikolaos [@username](https://github.com/Apostolos-Rigas)
+- Rigas Apostolos-Nikolaos [@AnrPg](https://github.com/AnrPg)
 
 Copyright (c) 2025 Niklaus
